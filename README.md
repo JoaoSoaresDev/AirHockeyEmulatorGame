@@ -5,5 +5,6 @@ This application was developed by me and two other classmates, Michael Stirling 
 githubs below), for one of our gaming units at university. 
 
 github.com/MichaelStirlingDev
+
 github.com/RicardoJacobsen
 
